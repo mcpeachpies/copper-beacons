@@ -21,6 +21,14 @@
     "minecraft:waxed_cut_copper",
     "minecraft:waxed_exposed_cut_copper",
     "minecraft:waxed_weathered_cut_copper",
-    "minecraft:waxed_oxidized_cut_copper"
+    "minecraft:waxed_oxidized_cut_copper",
+    "minecraft:copper_grate",
+    "minecraft:exposed_copper_grate",
+    "minecraft:weathered_copper_grate",
+    "minecraft:oxidized_copper_grate",
+    "minecraft:waxed_copper_grate",
+    "minecraft:waxed_exposed_copper_grate",
+    "minecraft:waxed_weathered_copper_grate",
+    "minecraft:waxed_oxidized_copper_grate"
   ]
 }
